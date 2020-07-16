@@ -15,5 +15,5 @@ For security, most requests to AWS must be signed with an access key, which cons
                                           that require signing yourself.</b>
                                        </p>
 
-<b>How this repo helps to implement Signature Version 4 works</b>
+<b>How this repo helps to implement Signature Version 4</b>
 
